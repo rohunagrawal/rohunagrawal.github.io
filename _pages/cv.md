@@ -1,7 +1,7 @@
 ---
 layout: cv
-permalink: /cv/
-title: cv
+permalink: /assets/pdf/Rohun_Agrawal_CV.pdf
+title: CV
 nav: true
 nav_order: 5
 cv_pdf: example_pdf.pdf
