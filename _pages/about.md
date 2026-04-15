@@ -16,12 +16,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I'm a Computer Science PhD student at <a href = "https://www.cs.columbia.edu/">Columbia</a> co-advised by <a href="https://goldblum.github.io/">Micah Goldblum</a> at Columbia and <a href="https://izmailovpavel.github.io/">Pavel Izmailov</a> at <a href = "https://engineering.nyu.edu/">NYU</a>. I recieved my B.S. in Applied and Computational Mathematics from <a href = "https://www.cms.caltech.edu/">Caltech</a> where I worked with [Georgia Gkioxari](https://gkioxari.github.io/) on visual reasoning and in [Katie Bouman](https://computationalcameras.org)'s lab on imaging inverse problems.
+I am a Computer Science PhD student at <a href = "https://www.cs.columbia.edu/">Columbia</a> co-advised by <a href="https://goldblum.github.io/">Micah Goldblum</a> and <a href="https://izmailovpavel.github.io/">Pavel Izmailov</a>. My work is supported by the NSF Graduate Research Fellowship. 
 
+Previously, I completed my B.S. in Applied and Computational Mathematics from <a href = "https://www.cms.caltech.edu/">Caltech</a> where I worked with [Georgia Gkioxari](https://gkioxari.github.io/) on visual reasoning and in [Katie Bouman](https://computationalcameras.org)'s lab on imaging inverse problems. I have also interned at Apple training large video models, and at the NASA Jet Propulsion Laboratory calibrating GPR models.
 
-My current interests revolve around planning, exploration, and visual reasoning.
-
-I've also interned at Apple training large video models, and at the NASA Jet Propulsion Laboratory calibrating GPR models.
+I am interested in developing methods to push the temporal horizons of machine learning models. Specifically, I aim to extend future horizons with world model planning and past horizons with efficient large-scale memory retrieval. I believe both these directions are crucial to achieve truly persistent agents.
 
 <!-- 
 Currently, I am a member of [Georgia Gkioxari's](https://gkioxari.github.io/) lab at Caltech. Previously, I worked with [Dr. Oscar Leong](https://www.oscarleong.com) in [Katie Bouman's Computational Cameras](https://computationalcameras.org) lab.
