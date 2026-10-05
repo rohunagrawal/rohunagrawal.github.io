@@ -4,7 +4,7 @@ Extracted from the existing homepage before removing al-folio. Publication metad
 
 ## Introduction
 
-I am a Computer Science PhD student at [Columbia](https://www.cs.columbia.edu/) co-advised by [Micah Goldblum](https://goldblum.github.io/) and [Pavel Izmailov](https://izmailovpavel.github.io/). My work is supported by the NSF Graduate Research Fellowship. 
+I am a Computer Science PhD student at [Columbia](https://www.cs.columbia.edu/) co-advised by [Micah Goldblum](https://goldblum.github.io/) and [Pavel Izmailov](https://izmailovpavel.github.io/). My work is supported by the NSF Graduate Research Fellowship.
 
 Previously, I completed my B.S. in Applied and Computational Mathematics from [Caltech](https://www.cms.caltech.edu/) where I worked with [Georgia Gkioxari](https://gkioxari.github.io/) on visual reasoning and in [Katie Bouman](https://computationalcameras.org)'s lab on imaging inverse problems. I have also interned at Apple training large video models, and at the NASA Jet Propulsion Laboratory calibrating GPR models.
 
